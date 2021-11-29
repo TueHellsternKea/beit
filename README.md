@@ -1,2 +1,2 @@
-# beit
-BEIT Demo doc site
+# BEIT
+Demo site
